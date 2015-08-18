@@ -5,7 +5,7 @@ This web application uses the USArrests R dataset obtained by:
 library(datasets)
 data(USArrests)
 ```
-The dataset contains crime data for the 50 U.S. states. The following data are provided:
+The dataset contains crime data for the 50 U.S. states in 1973 (a bit out of date). The following data are provided:
 
 - Assault (per 100,000 residents)  
 - Murder (per 100,000 residents)    
