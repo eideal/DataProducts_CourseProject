@@ -1,0 +1,12 @@
+README for DataProjects_CourseProject
+
+This is the code for a Shiny application that interactively visualizes crime levels in the United States. The dataset used ships with R 
+and is called USArrests. I created interactive US maps with the googleVis package.
+
+----
+Main Output
+----
+
+The Shiny application can be viewed here: http://eideal.shinyapps.io/DataProducts_CourseProject. A (slightly humorous) Slidify presentation pitching the application can be seen at this link: http://eideal.github.io/DataProducts_Slidify/index.html.
+
+
